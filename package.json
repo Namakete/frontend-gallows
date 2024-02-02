@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "vue": "^3.2.13",
+    "vue-axios": "^3.5.2",
     "vue-language-server": "^0.0.67"
   },
   "devDependencies": {
